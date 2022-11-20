@@ -568,4 +568,5 @@ run_average()
 # %%
 run_probability()
 # %%
-run_extension()
+# un-comment to run extension (may take hours)
+# run_extension()

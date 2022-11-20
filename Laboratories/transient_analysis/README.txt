@@ -1,0 +1,1 @@
+The script "batch_means.py" has no input  parameter, and by default runs the simulation for the 3 different experiments, plotting the results
