@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$USER_HOME$/Downloads/.idea/Downloads.iml" filepath="$USER_HOME$/Downloads/.idea/Downloads.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Laboratories.iml" filepath="$PROJECT_DIR$/.idea/Laboratories.iml" />
       <module fileurl="file://$PROJECT_DIR$/../../../MACHINE LEARNING FOR IoT/ML4IoT/.idea/ML4IoT.iml" filepath="$PROJECT_DIR$/../../../MACHINE LEARNING FOR IoT/ML4IoT/.idea/ML4IoT.iml" />
       <module fileurl="file://$USER_HOME$/Downloads/s288400/.idea/s288400.iml" filepath="$USER_HOME$/Downloads/s288400/.idea/s288400.iml" />

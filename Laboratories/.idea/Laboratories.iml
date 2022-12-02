@@ -6,5 +6,6 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="ML4IoT" />
     <orderEntry type="module" module-name="s288400" />
+    <orderEntry type="module" module-name="Downloads" />
   </component>
 </module>
